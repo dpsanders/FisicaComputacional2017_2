@@ -7,7 +7,7 @@
 
 
 En este curso, usaremos exclusivamente el lenguaje de programación [Julia](http://julialang.org/),
-ya que consideramos sea la mejor opción para el cómputo científico.
+ya que consideramos que será la mejor opción para el cómputo científico.
 
 Julia se puede utilizar en la nube, sin necesidad de instalar nada, en
 https://juliabox.com/
