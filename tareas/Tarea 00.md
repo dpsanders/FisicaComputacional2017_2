@@ -7,4 +7,4 @@ Debes redactar un resumen de al menos 2 páginas sobre la **historia de la compu
 Anexa tu escrito en un correo electrónico y envíalo a **ilya.orson@ciencias.unam.mx** con el asunto *tarea00_nombre_apellido*.
 
 #### Fecha límite
-* Jueves 2 de enero de 2017, antes de las 15:00 horas.
+* Jueves 2 de febrero de 2017, antes de las 15:00 horas.
