@@ -1,6 +1,6 @@
 # Física Computacional
-## Semestre 2017-2, grupo 8196
-## Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México
+### Semestre 2017-2, grupo 8196
+#### Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México
 
 ### Profesor: Dr. David P. Sanders
 ### Ayudante: Ilya Orson Sandoval Cárdenas
