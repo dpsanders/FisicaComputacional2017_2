@@ -50,3 +50,7 @@ Para correr el notebook, se pone (desde Julia)
 using IJulia
 notebook()
 ```
+
+## Nteract
+
+Una alternativa para usar los notebooks desde el escritorio (en lugar del navegador) es [Nteract](https://nteract.io/).
