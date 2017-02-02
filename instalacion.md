@@ -1,6 +1,6 @@
 # Instalando Julia
 
-#### Instalación desde un binario
+## Instalación desde un binario
 
 La forma más sencilla de instalar Julia es usando un *binario*: descarga el instalador adecuado para tu sistema operativo desde [aquí](http://julialang.org/downloads/). Si te interesan opciones específicas para tu sistema operativo o distribución consulta [esto](http://julialang.org/downloads/platform.html).
 
@@ -8,7 +8,9 @@ Una guía accesible que explica como utilizar los binarios u otros métodos senc
 
 Si estás utilizando Windows, probablemente también querrás instalar [`git` para Windows](https://msysgit.github.io/), el cual proporciona una terminal estilo Unix.
 
-#### Instalación desde el código fuente
+Por el momento, hay que utilizar la versión 0.5 de Julia, que es la versión estable.
+
+## Instalación desde el código fuente
 
 La instalación desde el código fuente ( la cual requiere compilar Julia en tu maquina ) tarda aproximadamente una hora y puede no salir bien a la primera. Considérala como una opción más avanzada, no para principiantes.
 
@@ -29,43 +31,22 @@ Juno es un IDE ( Entorno de Desarrollo Integrado, “ Integrated Development Env
 
 Las instrucciones se encuentran [aquí](http://junolab.org).
 
-# Ijulia
+# IJulia
 
-[IJulia](https://github.com/JuliaLang/IJulia.jl) es una interfaz de Julia para   [Jupyter](https://jupyter.org/) (antes IPython notebook), el cual estaremos usando extensivamente para nuestro curso.
+[IJulia](https://github.com/JuliaLang/IJulia.jl) es una interfaz de Julia para   [Jupyter](https://jupyter.org/), el cual estaremos usando extensivamente para el curso.
 
-#### Requisitos de Python
-
-Primero necesitaras instalar IPython. [Las partes de Ipython que no se relacionan directamente con Python se están separando en un paquete llamado Jupyter.] La manera mas sencilla de hacer esto es instalar la distribución gratuita de [Anaconda](http://continuum.io/downloads), la cual incluye IPython, la librería de graficación `matplotlib`(que se puede utilizar desde julia con el paquete [PyPlot.jl](https://github.com/JuliaPy/PyPlot.jl)), y varios paquetes útiles de Python.
-
-Si prefieres algo más ligero y rápido, puedes usar `pip` ( un instalador de paquetes de Python ):
-
-```
-pip install --upgrade ipython[all]
-```
-En Ubuntu, primero necesitas ejecutar:
-```
-sudo apt-get install python-dev
-sudo apt-get install python-pip
-```
-En Mac OSX también tendrás que agregar las siguientes líneas
-```
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
-```
-al archivo `.bash_profile` el cual está en tu directorio “home” ( si este archivo no existe entonces necesitaras crearlo con esas dos lineas como contenido ).
-
-#### Instando IJulia
-
-Una vez que Ipython notebook este instalado, corre Julia en una terminal
-```
-julia
-```
-
-Si la instalación de julia fue exitosa, el aspecto de tu terminal cambia y aparece el logo de Julia. Este es un modo interactivo para trabajar llamado [REPL](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL) (read-eval-print loop). Desde aquí añade el paquete “IJulia” con el siguiente comando:
+Para instalarlo, es suficiente hacer, desde Julia mismo,
 
 ```
 Pkg.add("IJulia")
 ```
-Después de que varias cosas se hayan instalado, se debería de ver un mensaje de que Julia exitosamente encontró tu instalación de IPython y que se han creado todos los archivos necesarios.
+Esto instalará una copia de Jupyter local que se utiliza sólo por Julia.
+Después de que varias cosas se hayan instalado, se debería ver un mensaje de que IJulia se haya instalado exitosamente.
 
-Si algo no funcionó o quieres más detalles los puedes encontrar [aquí](https://github.com/JuliaLang/IJulia.jl).
+Si algo no funcionó o quieres más detalles, los puedes encontrar [aquí](https://github.com/JuliaLang/IJulia.jl).
+
+Para correr el notebook, se pone (desde Julia)
+```
+using IJulia
+notebook()
+```
