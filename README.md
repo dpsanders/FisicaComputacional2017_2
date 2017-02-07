@@ -1,9 +1,12 @@
 # Física Computacional
-### Semestre 2017-2, grupo 8196
-#### Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México
+#### Semestre 2017-2, grupo 8196
+##### Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México
 
 ### Profesor: Dr. David P. Sanders
-### Ayudante: Ilya Orson Sandoval Cárdenas
+#### Ayudantes:
+* **Ilya Orson Sandoval Cárdenas** `ilya.orson@ciencias.unam.mx`
+* **Ignacio Loaiza Ganem** `ignacio.loaiza@ciencias.unam.mx`
+
 
 ## El lenguaje Julia
 En este curso, usaremos exclusivamente el lenguaje de programación [Julia](http://julialang.org/),
@@ -24,4 +27,4 @@ Funciona en (casi) cualquier sistema operativo (Linux, Mac, Windows, ARM, etc.)
 
 Un entorno práctico para llevar a cabo investigaciones científicas con Julia es el [**Jupyter Notebook**](http://jupyter.org/), a través del paquete de Julia `IJulia`.
 
-Consulta el archivo `instalacion.md` de este repositorio para más detalles sobre la instalación de IJulia. 
+Consulta el archivo `instalacion.md` de este repositorio para más detalles sobre la instalación de IJulia.
