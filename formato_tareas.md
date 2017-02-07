@@ -9,6 +9,7 @@ Asegurate de que el notebook funcione al correr cada celda secuencialmente desde
 * Guarda tus notebooks terminados en formato `tareaXX_nombre_apellido.ipynb`.
 
 * Envíalos a los correos de ambos ayudantes:
+
  **ilya.orson@ciencias.unam.mx**
 
  **ignacio.loaiza@ciencias.unam.mx**.
