@@ -8,7 +8,7 @@
 * **Ilya Orson Sandoval Cárdenas** `ilya.orson@ciencias.unam.mx`
 * **Ignacio Loaiza Ganem** `ignacio.loaiza@ciencias.unam.mx`
 
-** Para dudas sobre las tareas o preguntas aleatorias --> ** [![Join the chat at https://gitter.im/dpsanders/FisicaComputacional2017_2](https://badges.gitter.im/dpsanders/FisicaComputacional2017_2.svg)](https://gitter.im/dpsanders/FisicaComputacional2017_2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Para dudas sobre las tareas o preguntas aleatorias ---> [![Join the chat at https://gitter.im/dpsanders/FisicaComputacional2017_2](https://badges.gitter.im/dpsanders/FisicaComputacional2017_2.svg)](https://gitter.im/dpsanders/FisicaComputacional2017_2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## El lenguaje Julia
 En este curso, usaremos exclusivamente el lenguaje de programación [Julia](http://julialang.org/),
