@@ -2,6 +2,8 @@
 #### Semestre 2017-2, grupo 8196
 ##### Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México
 
+[![Join the chat at https://gitter.im/dpsanders/FisicaComputacional2017_2](https://badges.gitter.im/dpsanders/FisicaComputacional2017_2.svg)](https://gitter.im/dpsanders/FisicaComputacional2017_2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Profesor: Dr. David P. Sanders
 #### Ayudantes:
 * **Ilya Orson Sandoval Cárdenas** `ilya.orson@ciencias.unam.mx`
