@@ -8,10 +8,6 @@
 * Crhistian Alejandro Benitez Abarca
 * Raúl Álvarez Mendoza
 
-**Aplicación de la FFT en la resolución de potenciales cuánticos**
-* Ana Zuñiga
-* Eduardo Nolasco
-
 **Representación de punto flotante**
 * Kevin Bustillos Barrera
 
@@ -19,8 +15,10 @@
 * Alejandra Yuriko Yamamoto Elizalde
 * Héctor Andrés Flores Hernández
 
-**Ecuación de Schrödinger unidimensional, su relevancia y algunos conceptos.**
+**Ecuación de Schrödinger unidimensional**
 * Martín Edwin Reyes Sánchez
+* Ana Zuñiga
+* Eduardo Nolasco
 
 **Dinámica molecular (gas diluido)**
 * Hansel Argyll Gordillo Ruíz
@@ -31,3 +29,6 @@
 
 **Movimiento Browniano con esferas rígidas**
 * Mildred Desiree Monterrubio Gámez
+
+**Condiciones en las primeras etapas de evolución de una supernova (temperatura e inestabilidades)**
+* Arturo Emmanuel Cruz Álvarez
