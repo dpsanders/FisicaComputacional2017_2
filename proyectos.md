@@ -32,3 +32,6 @@
 
 **Condiciones en las primeras etapas de evolución de una supernova (temperatura e inestabilidades)**
 * Arturo Emmanuel Cruz Álvarez
+
+**Ecuaciones de estructura estelar para enanas blancas degeneradas**
+* Alejandro Aguilar Nieto
