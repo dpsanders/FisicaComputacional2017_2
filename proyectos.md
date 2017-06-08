@@ -35,3 +35,9 @@
 
 **Ecuaciones de estructura estelar para enanas blancas degeneradas**
 * Alejandro Aguilar Nieto
+
+**Sistema Fermi-Pasta-Ulam-Tsingou: Osciladores acoplados con resortes no lineales**
+* Erick Alexis Gómez Hérnandez
+
+**Teoría de Perturbaciones para distintos Hamiltonianos**
+* Sergio Javier Bustos Juárez
