@@ -11,6 +11,8 @@
 |  1:00 am 	|   5. Monterrubio   	|    11. Pasos/Praskauer   	|
 |  1:30 am 	| 6. Benitez/Álvarez 	|       12. Bustillos      	|
 
+*Los horarios son aproximados, deben presentarse con bastante anticipación y de preferencia ver todos los proyectos de sus compañeros.*
+
 ## Lista de proyectos
 
 1. **Condiciones en las primeras etapas de evolución de una supernova (temperatura e inestabilidades)**
