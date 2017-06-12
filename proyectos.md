@@ -15,6 +15,8 @@
 
 *Los horarios son aproximados, deben presentarse con bastante anticipación y de preferencia ver todos los proyectos de sus compañeros.*
 
+***Las presentaciones serán en el aula de cómputo III.***
+
 ## Lista de proyectos
 
 1. **Condiciones en las primeras etapas de evolución de una supernova (temperatura e inestabilidades)**
